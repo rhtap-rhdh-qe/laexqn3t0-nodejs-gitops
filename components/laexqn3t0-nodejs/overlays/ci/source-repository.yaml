@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: laexqn3t0-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/laexqn3t0-nodejs
